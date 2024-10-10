@@ -1,0 +1,483 @@
+Property ID,Postal code,Locality name,Price,Type of property,Number of rooms,Living area,Equipped kitchen,State of building,Number of facades,Furnished,Open fire,Swimming pool,Garden (m²),Terrace (m²)
+20236298,2660,hoboken,249900,"Apartment
+ ",2 bedrooms,97,0,As new,2,,,,,3
+20236289,2018,antwerpen-2018,375000,"Apartment
+ ",2 bedrooms,100,1,Good,,,,,,20
+20234084,1170,watermael-boitsfort,550000,"Apartment
+ ",4 bedrooms,143,1,Good,2,0.0,,0.0,,18
+20236163,9890,gavere,159325447375,Gaverling -,1 - 3 bedrooms,75,0,,,,,,,
+20236149,9890,gavere,159325447375,Gaverling G,1 - 3 bedrooms,75,0,,,,,,,
+20234667,1080,molenbeek-saint-jean,188000265000,EKLA,1 - 2 bedrooms,49,0,,,,,,,
+20234146,1190,forest,188000460000,"""Forest Vil",0 - 3 bedrooms,42,0,,,,,,,
+20234591,1082,berchem-sainte-agathe,230000480000,AGATHA GARD,0 - 4 bedrooms,40,0,,,,,,,
+20234626,1083,ganshoren,230000480000,AGATHA GARD,0 - 4 bedrooms,40,0,,,,,,,
+20237328,2500,lier,260000265000,Residentie ,1 bedroom,75,0,,,,,,,
+20236688,9300,aalst,260250304000,Residentie ,2 - 3 bedrooms,107,0,,,,,,,
+20234664,1030,schaerbeek,265000570000,IDYLLES,1 - 3 bedrooms,55,0,,,,,,,
+20234924,1140,evere,269000469000,HANRIOT,1 - 3 bedrooms,74,0,,,,,,,
+20236231,9890,gavere,273700382150,Gaverling G,1 - 3 bedrooms,76,0,,,,,,,
+20236197,9890,gavere,273700382500,Gaverling G,1 - 3 bedrooms,76,0,,,,,,,
+20236692,9300,aalst,276500332000,Residentie ,2 bedrooms,96,0,,,,,,,
+20236679,1770,liedekerke,286000462000,Vallei Hout,2 - 3 bedrooms,86,0,,,,,,,
+20236405,2547,lint,299500319000,Residentie ,2 bedrooms,78,0,,,,,,,
+20236078,9052,gent-zwijnaarde,301948556453,Residentie ,1 - 3 bedrooms,69,0,,,,,,,
+20235623,9000,gent,310000400000,Bloei Fase ,2 - 3 bedrooms,81,0,,,,,,,
+20235624,9051,sint-denijs-westrem,310000400000,Bloei Fase ,2 - 3 bedrooms,81,0,,,,,,,
+20235622,9051,sint-denijs-westrem,310000400000,Bloei Fase ,2 - 3 bedrooms,81,0,,,,,,,
+20234681,1020,bruxelles,320000465000,BRIQUETERIE,2 - 3 bedrooms,96,0,,,,,,,
+20236365,9600,ronse,347400394600,WOONERF HOE,4 bedrooms,170,0,,,,,,,
+20236677,9300,aalst,349000,De Tuinpavi,2 bedrooms,108,0,,,,,,,
+20236694,9420,mere,360000430000,Residentie ,2 bedrooms,101,0,,,,,,,
+20236132,9890,gavere,365000397000,Gaverling -,3 bedrooms,171,0,,,,,,,
+20235803,9850,merendree,370000396000,,3 bedrooms,158,0,,,,,,,
+20236252,9230,wetteren,404500450000,Cooppallaan,3 - 4 bedrooms,121,0,,,,,,,
+20236417,9310,baardegem,455600542214,BIOMOLEN,3 bedrooms,135,0,,,,,,,
+20237567,3650,dilsen-stokkem,235000,"Duplex
+    ",2 bedrooms,100,0,Good,2,0.0,,,,
+20088520,2500,lier,480000,Exceptional,2 bedrooms,155,1,Good,4,0.0,,,800,30
+20237564,2470,retie,469000,"Penthouse
+ ",2 bedrooms,175,1,As new,2,0.0,,,,70
+20237563,3790,mouland,315000,"House
+     ",6 bedrooms,143,1,Good,2,0.0,,,,
+20237561,9050,gent,409000,"House
+     ",3 bedrooms,118,1,As new,2,0.0,,0.0,20,
+20237560,4000,li%C3%A8ge,125000,Flat studio,1 bathroom,46,0,Good,2,0.0,,0.0,,5
+20237559,3090,overijse,365000,"House
+     ",3 bedrooms,135,0,,3,0.0,,,70,
+20237558,1120,brussel,198000,"Apartment
+ ",2 bedrooms,91,1,To renovate,2,,,,,4
+20237557,3000,herent,542000,"Villa
+     ",5 bedrooms,222,1,Good,4,,1.0,0.0,,
+20237556,1700,dilbeek,1495000,Exceptional,4 bedrooms,381,1,As new,4,,1.0,1.0,,
+20237555,6060,gilly%20%28charleroi%29,15000,"Apartment
+ ",2 bedrooms,88,1,,2,0.0,,,,5
+20237553,6001,marcinelle,435000,"Apartment
+ ",3 bedrooms,245,1,,4,0.0,,,,130
+20237549,6460,salles,265000,"House
+     ",5 bedrooms,207,1,,4,0.0,1.0,,510,
+20237552,6110,montigny-le-tilleul,498000,"Villa
+     ",3 bedrooms,381,1,As new,4,0.0,,,1000,37
+20237551,6460,salles,165000,"House
+     ",5 bedrooms,207,1,,3,0.0,1.0,,85,
+20237550,5660,mariembourg,125000,"House
+     ",1 bedroom,64,1,,4,0.0,,,,30
+20237547,6120,nalinnes,695000,"Villa
+     ",4 bedrooms,368,1,,4,0.0,,,2000,50
+20237450,7180,seneffe,208000404000,DEUX ECLUSE,1 - 3 bedrooms,60,0,,,,,,,
+20237439,3700,tongeren,220000525000,Residentie ,1 - 3 bedrooms,56,0,,,,,,,
+20237427,3520,zonhoven,346950,Residentie ,2 bedrooms,84,0,,,,,,,
+10588513,3970,leopoldsburg,366000425000,Woningen aa,3 bedrooms,165,0,,,,,,,
+11212128,2640,mortsel,225000,"Apartment
+ ",2 bedrooms,80,0,Just renovated,,,,,,2
+20237423,2630,aartselaar,595000,"House
+     ",5 bedrooms,200,1,Good,,,,,,
+20237418,2600,berchem,209000,"Apartment
+ ",2 bedrooms,110,1,Good,2,0.0,,0.0,,15
+20237417,2660,hoboken,334000,"House
+     ",4 bedrooms,205,1,Just renovated,2,,,,70,
+20237416,6060,gilly%20%28charleroi%29,55000,"House
+     ",1 bedroom,70,1,,2,0.0,,,,
+20237415,6200,bouffioulx,199000,"House
+     ",4 bedrooms,122,1,,2,0.0,,,35,4
+20237413,2180,ekeren%20%28antwerpen%29,475000,"House
+     ",4 bedrooms,189,1,,4,0.0,,0.0,,
+20237412,7641,bruyelle,89500,"House
+     ",2 bedrooms,66,1,To be done up,2,,,,,
+20237411,8790,waregem,499000,"Villa
+     ",3 bedrooms,160,1,Good,4,,1.0,,,
+20235883,9051,sint-denijs-westrem,458000465000,,4 bedrooms,175,0,,,,,,,
+20235186,1130,bruxelles,481000521000,LES JARDINS,4 bedrooms,149,0,,,,,,,
+20235178,1140,evere,481000521000,LES JARDINS,4 bedrooms,149,0,,,,,,,
+20235194,1830,machelen,481000506000,LES JARDINS,4 bedrooms,149,0,,,,,,,
+20235621,9000,gent,498000585000,Rhodon,4 bedrooms,180,0,,,,,,,
+20235882,9052,zwijnaarde,679000725000,,3 bedrooms,191,0,,,,,,,
+20233362,2900,schoten,225000,"Apartment
+ ",2 bedrooms,95,1,Good,,,,,,3
+20233363,2900,schoten,225000,"Penthouse
+ ",2 bedrooms,95,1,Good,,,,,,3
+20234144,1060,saint-gilles,765000,"Apartment
+ ",3 bedrooms,254,1,Good,,0.0,,0.0,,27
+20231570,1200,woluwe-saint-lambert,225000,"Apartment
+ ",2 bedrooms,73,1,Good,2,0.0,,0.0,,17
+20234270,2660,hoboken,229000,"Apartment
+ ",3 bedrooms,100,0,As new,2,,,,,26
+20233537,1000,bruxelles,169500389000,BLVD10,0 - 2 bedrooms,30,0,,,,,,,
+20233512,1210,saint-josse-ten-noode,169500389000,BLVD10,0 - 2 bedrooms,30,0,,,,,,,
+20233818,1190,forest,188000460000,FOREST VILL,0 - 3 bedrooms,43,0,,,,,,,
+20232485,9000,gent,235000340000,Bloei Fase ,1 - 3 bedrooms,57,0,,,,,,,
+20230844,9800,astene,245000650000,Kapellehof,1 - 3 bedrooms,69,0,,,,,,,
+20235005,2850,boom,249000349000,REMI,2 bedrooms,77,0,,,,,,,
+20234323,2500,lier,260000265000,Residentie ,1 bedroom,75,0,,,,,,,
+20233557,1000,bruxelles,2650001495000,UNIQ,0 - 3 bedrooms,54,0,,,,,,,
+20233595,1000,bruxelles,265000500000,DEPOT,0 - 3 bedrooms,59,0,,,,,,,
+20233521,1080,molenbeek-saint-jean,265000500000,DEPOT,0 - 3 bedrooms,59,0,,,,,,,
+20232954,9940,evergem,295000445000,Green Squar,1 - 3 bedrooms,75,0,,,,,,,
+20232876,9940,sleidinge,295000445000,Green Squar,1 - 3 bedrooms,75,0,,,,,,,
+20233883,1082,berchem-sainte-agathe,315000390000,L'ETOILE VE,2 bedrooms,97,0,,,,,,,
+20233878,1700,dilbeek,315000390000,L'ETOILE VE,2 bedrooms,97,0,,,,,,,
+20234520,2400,mol,315000319000,Residentiew,2 - 3 bedrooms,104,0,,,,,,,
+20233526,1020,bruxelles,325000410000,CHOCOLATERI,2 - 3 bedrooms,102,0,,,,,,,
+20233491,1070,anderlecht,335000,PARK SIDE,3 bedrooms,118,0,,,,,,,
+20233894,9800,deinze,337000383011,BegijnHof,3 bedrooms,138,0,,,,,,,
+20232489,9000,gent,369000,Rhodon,2 bedrooms,93,0,,,,,,,
+20237450,7180,seneffe,208000404000,DEUX ECLUSE,1 - 3 bedrooms,60,0,,,,,,,
+20237439,3700,tongeren,220000525000,Residentie ,1 - 3 bedrooms,56,0,,,,,,,
+20237427,3520,zonhoven,346950,Residentie ,2 bedrooms,84,0,,,,,,,
+10588513,3970,leopoldsburg,366000425000,Woningen aa,3 bedrooms,165,0,,,,,,,
+11212128,2640,mortsel,225000,"Apartment
+ ",2 bedrooms,80,0,Just renovated,,,,,,2
+20237423,2630,aartselaar,595000,"House
+     ",5 bedrooms,200,1,Good,,,,,,
+20237418,2600,berchem,209000,"Apartment
+ ",2 bedrooms,110,1,Good,2,0.0,,0.0,,15
+20237417,2660,hoboken,334000,"House
+     ",4 bedrooms,205,1,Just renovated,2,,,,70,
+20237416,6060,gilly%20%28charleroi%29,55000,"House
+     ",1 bedroom,70,1,,2,0.0,,,,
+20237415,6200,bouffioulx,199000,"House
+     ",4 bedrooms,122,1,,2,0.0,,,35,4
+20237413,2180,ekeren%20%28antwerpen%29,475000,"House
+     ",4 bedrooms,189,1,,4,0.0,,0.0,,
+20237412,7641,bruyelle,89500,"House
+     ",2 bedrooms,66,1,To be done up,2,,,,,
+20237411,8790,waregem,499000,"Villa
+     ",3 bedrooms,160,1,Good,4,,1.0,,,
+11284130,9120,beveren-waas,315000,"Apartment
+ ",2 bedrooms,106,1,,2,,,,,10
+11285258,9120,beveren-waas,315000,"Apartment
+ ",2 bedrooms,3,1,,2,,,,,5
+20237409,9120,beveren-waas,386000,"Apartment
+ ",2 bedrooms,129,1,,2,,,,,14
+20237408,9120,beveren-waas,305000,"Apartment
+ ",2 bedrooms,102,1,,2,,,,,10
+20237407,1301,bierges,1490000,"House
+     ",5 bedrooms,385,1,Good,4,0.0,1.0,1.0,4900,80
+20237406,1300,wavre,1490000,"House
+     ",5 bedrooms,385,1,Good,4,,1.0,1.0,4900,80
+20237402,1030,schaerbeek,799000,Apartment b,9 bedrooms,384,1,Good,2,,,,40,
+20237400,1410,waterloo,269000,"Apartment
+ ",1 bedroom,59,1,As new,3,,,,,6
+20237399,7950,huissignies,290000,"House
+     ",4 bedrooms,336,1,Just renovated,4,,,,,
+11393609,1400,nivelles,235000,"Duplex
+    ",4 bedrooms,160,1,To renovate,,0.0,,,,
+20237383,9140,temse,689000,"House
+     ",6 bedrooms,329,1,Good,,,1.0,,,
+11459059,1800,vilvoorde,175000,"Apartment
+ ",1 bedroom,73,1,Good,2,,,,,
+20237375,6040,jumet,265000,"House
+     ",3 bedrooms,110,1,Good,4,,1.0,,500,15
+20039580,9100,sint-niklaas,425000,"House
+     ",4 bedrooms,191,1,To renovate,4,,,,,15
+20237374,9120,beveren,429000,"House
+     ",3 bedrooms,334,1,As new,3,,,0.0,334,
+20237373,2950,kapellen,259000,"Apartment
+ ",2 bedrooms,82,1,As new,3,0.0,,,,
+20234433,5000,namur,175000,"Apartment
+ ",2 bedrooms,70,1,Good,2,,,,,
+20233598,9620,zottegem,420000495000,Residentie ,2 - 3 bedrooms,151,0,,,,,,,
+20232166,1150,woluwe-saint-pierre,4250001100000,THE POST,1 - 3 bedrooms,74,0,,,,,,,
+20232703,9250,waasmunster,455000,,3 bedrooms,168,0,,,,,,,
+20232704,8670,oostduinkerke,473000,,3 bedrooms,175,0,,,,,,,
+20233511,1090,jette,485000580000,FIRMIN,2 - 3 bedrooms,143,0,,,,,,,
+9397247,8000,brugge,485000,,4 bedrooms,154,0,,,,,,,
+20232989,9070,destelbergen,534000585000,Valeria - D,2 bedrooms,102,0,,,,,,,
+20235436,2250,olen,543000,BEN-woninge,3 bedrooms,241,0,,,,,,,
+20230670,3300,tienen,189000,"Apartment
+ ",2 bedrooms,81,0,To renovate,4,,,,,22
+20236558,2018,antwerpen,389900,"House
+     ",3 bedrooms,150,1,Just renovated,2,,,,19,5
+20236560,2140,borgerhout,389900,"House
+     ",3 bedrooms,150,1,Just renovated,2,,,,19,5
+20233289,1332,genval,295000,"Apartment
+ ",1 bedroom,62,1,As new,,0.0,,0.0,2000,5
+20231046,1300,wavre,225000,"House
+     ",2 bedrooms,110,0,To renovate,3,,,,,8
+20231857,1070,anderlecht,265000,Ground floo,3 bedrooms,85,1,As new,2,0.0,,0.0,,4
+20230590,5000,namur,117800189800,Université,0 - 0 bedrooms,25,0,,,,,,,
+20230463,1190,forest,188000460000,FOREST VILL,0 - 3 bedrooms,43,0,,,,,,,
+20229405,1190,forest,188000460000,FOREST VILL,0 - 3 bedrooms,43,0,,,,,,,
+20230721,1130,bruxelles,227749,MONILE,1 bedroom,66,0,,,,,,,
+20230719,1130,bruxelles,227749,MONILE,1 bedroom,66,0,,,,,,,
+20230392,2490,balen,245000550050,Korenplein,2 - 3 bedrooms,95,0,,,,,,,
+20229955,8630,veurne,249000399500,,1 - 3 bedrooms,76,0,,,,,,,
+20227792,1000,brussel,260000465000,20% verkoch,0 - 2 bedrooms,40,0,,,,,,,
+20230214,9700,oudenaarde,275000329000,Irish Pipes,2 bedrooms,86,0,,,,,,,
+20231496,9300,aalst,276500332000,Residentie ,2 bedrooms,96,0,,,,,,,
+20229873,8780,oostrozebeke,297000314000,,3 bedrooms,,0,,,,,,,
+20229954,8900,ieper,299000479000,,2 - 3 bedrooms,87,0,,,,,,,
+20229810,8760,meulebeke,307649,,3 bedrooms,154,0,,,,,,,
+20229657,9000,gent,310000400000,Bloei Fase ,2 - 3 bedrooms,81,0,,,,,,,
+20227797,1000,brussel,365000,Tour & Taxi,2 bedrooms,99,0,,,,,,,
+20229809,9160,lokeren,399000426000,,3 bedrooms,166,0,,,,,,,
+20237372,6220,fleurus,179000,Apartment b,4 bedrooms,100,1,Good,3,,,,,
+20237370,9100,sint-niklaas,235000,"Apartment
+ ",2 bedrooms,81,1,,2,0.0,,0.0,,13
+20237367,2490,balen,415000,"House
+     ",5 bedrooms,217,0,Good,4,,1.0,,,
+20237368,3970,leopoldsburg,420000,"House
+     ",4 bedrooms,553,0,To be done up,4,,,,,
+20237366,2950,kapellen,259000,"House
+     ",2 bedrooms,130,0,,3,0.0,,,,17
+11020850,2900,schoten,395600,"Apartment
+ ",3 bedrooms,92,1,,4,,,,,11
+11465695,8630,veurne,233500,"Apartment
+ ",2 bedrooms,68,1,Good,4,0.0,,0.0,,
+20055964,7321,blaton,220000,"Apartment
+ ",3 bedrooms,117,1,Good,,,,,,
+20237362,2170,merksem,419000,"House
+     ",4 bedrooms,209,1,Just renovated,2,,,,27,
+20237361,9000,gent,485000,"House
+     ",3 bedrooms,234,1,Good,2,0.0,,,65,60
+20237353,2140,borgerhout,239000,"House
+     ",4 bedrooms,162,1,Good,2,0.0,,,,
+20237354,2140,borgerhout,239000,"House
+     ",4 bedrooms,162,1,Good,2,0.0,,,,
+20237349,3202,rillaar,220000,"Apartment
+ ",2 bedrooms,103,0,As new,,0.0,,,,
+20237347,2800,mechelen,165000,Flat studio,,39,1,,,,,,,
+20237336,2845,niel,269000,"House
+     ",2 bedrooms,90,1,Just renovated,2,,,,,14
+20237334,2020,antwerpen,239000,"Apartment
+ ",2 bedrooms,111,0,Good,2,,,,,
+20237328,2500,lier,260000265000,Residentie ,1 bedroom,75,0,,,,,,,
+20237330,2500,lier,260000,"Apartment
+ ",1 bedroom,75,1,,2,,,,,5
+20237332,2500,lier,265000,"Apartment
+ ",1 bedroom,75,1,,2,,,,,5
+20237323,2520,ranst,399000,"House
+     ",3 bedrooms,200,1,Good,3,,1.0,,118,10
+20237319,3945,ham,295000,"House
+     ",3 bedrooms,128,0,Good,3,,,,,
+20237317,2260,westerlo,284000,"House
+     ",3 bedrooms,131,0,,4,,,,,
+20237318,4420,saint-nicolas,89000,"House
+     ",2 bedrooms,80,1,To be done up,3,0.0,,0.0,,
+20237316,9140,temse,199000,"Apartment
+ ",3 bedrooms,97,1,Good,,,,0.0,,10
+20237315,9890,gavere,249000,"House
+     ",3 bedrooms,126,0,To be done up,3,,,,,
+20237313,9630,zwalm,265000,"House
+     ",3 bedrooms,145,0,To renovate,4,,,,,
+20237302,8930,menen,119000,"House
+     ",1 bedroom,56,0,As new,2,,,,,
+20237301,7370,elouges,94800,"Town-house
+",2 bedrooms,100,0,,2,,,,,
+20237298,3600,genk,345000,"House
+     ",5 bedrooms,264,0,Good,3,,,,,
+20043641,6769,meix-devant-virton,85000,"House
+     ",1 bedroom,75,1,To renovate,2,,,,,12
+20230210,9000,gent,419000425000,Gloria - Ge,2 - 3 bedrooms,118,0,,,,,,,
+20227279,2600,berchem,219000,"Apartment
+ ",3 bedrooms,120,1,To renovate,,,,,,5
+20229482,2850,boom,269000,"Apartment
+ ",2 bedrooms,125,1,As new,2,,,,,13
+20227281,2600,berchem,289000,"Apartment
+ ",2 bedrooms,86,1,Just renovated,,,,,,11
+20234460,8500,kortrijk,199000,"House
+     ",4 bedrooms,145,1,To renovate,2,,,,,
+20235479,3078,kortenberg,370000,"House
+     ",5 bedrooms,267,1,To renovate,3,,,,760,
+20236461,1083,ganshoren,199000,"Apartment
+ ",2 bedrooms,82,0,To renovate,2,0.0,,0.0,,2
+20236460,1083,ganshoren,220000,Flat studio,1 bathroom,70,1,To be done up,2,0.0,,0.0,,80
+20234193,1160,auderghem,235000,Flat studio,1 bathroom,67,1,Good,,0.0,,0.0,,
+20234255,9300,aalst,215000,"Apartment
+ ",2 bedrooms,81,1,Good,2,,,,,
+20233813,9000,gent,249000,"Apartment
+ ",1 bedroom,68,1,Good,2,,,,,10
+20233360,2018,antwerpen-2018,685000,"Penthouse
+ ",3 bedrooms,205,1,Just renovated,,,1.0,,,
+20234194,4870,trooz,199000,"House
+     ",2 bedrooms,78,1,Good,3,0.0,,0.0,96,15
+20236249,9890,gavere,459000,"House
+     ",3 bedrooms,430,1,To be done up,2,0.0,,0.0,179,50
+20236569,9070,destelbergen,574000,"House
+     ",4 bedrooms,170,1,Good,4,,,,,
+20236282,6800,libramont-chevigny,589000,Exceptional,3 bedrooms,280,1,Good,4,0.0,,1.0,1200,140
+20235030,1950,kraainem,595000,Mixed-use b,4 bedrooms,350,1,Good,4,0.0,,0.0,1400,
+20236655,1410,waterloo,925000,"House
+     ",7 bedrooms,465,0,Good,4,0.0,1.0,0.0,477,
+20236653,1420,braine-lalleud,925000,"House
+     ",7 bedrooms,465,0,Good,4,0.0,1.0,0.0,477,
+20236654,1640,rhode-saint-genese,925000,"House
+     ",7 bedrooms,465,0,Good,4,0.0,1.0,0.0,477,
+20216274,3000,leuven,630000,"House
+     ",2 bedrooms,192,1,Good,2,,,,325,20
+20230625,1200,woluwe-saint-lambert,295000,"Apartment
+ ",1 bedroom,65,1,As new,,0.0,,0.0,,4
+20228295,1000,brussels,460000,"Apartment
+ ",2 bedrooms,185,1,As new,2,0.0,,0.0,,17
+20233144,4680,oupeye,139000,"House
+     ",2 bedrooms,122,0,To renovate,2,0.0,,0.0,15,
+20234452,3020,herent,295000,"House
+     ",3 bedrooms,116,1,To be done up,2,,,,62,
+20228934,4000,liege,169000,"Apartment
+ ",2 bedrooms,87,1,Good,2,0.0,,0.0,,3
+20226794,1081,koekelberg,350000,"Apartment
+ ",3 bedrooms,130,1,As new,4,0.0,,0.0,,9
+20227681,1200,woluwe-saint-lambert,450000,"Apartment
+ ",3 bedrooms,128,1,Good,2,0.0,,0.0,,22
+20226959,1180,uccle,1950000,"House
+     ",5 bedrooms,310,1,As new,3,,1.0,0.0,200,20
+20228082,1070,anderlecht,225000375000,Résidence  ,1 - 3 bedrooms,64,0,,,,,,,
+20109078,8501,bissegem,149000,"House
+     ",1 bedroom,165,0,,2,,,,,
+20000257,8500,kortrijk,249000,"Duplex
+    ",3 bedrooms,188,0,As new,3,,,,25,
+20237294,9860,scheldewindeke,525000,"House
+     ",5 bedrooms,424,0,Just renovated,3,,,,,
+20237292,8400,oostende,350000,"Town-house
+",3 bedrooms,210,0,Good,,,,,,
+20237291,9000,gent,520000,"House
+     ",5 bedrooms,187,0,Good,2,,,,41,20
+20237290,8370,blankenberge,499000,"Apartment
+ ",2 bedrooms,96,0,As new,2,,,,,
+20237289,8650,houthulst,695000,"House
+     ",3 bedrooms,184,0,As new,4,,,,,
+20237287,8740,pittem,359000,"House
+     ",4 bedrooms,326,0,Good,2,,,,,
+20237286,2650,edegem,549000,"House
+     ",4 bedrooms,212,0,Good,2,,,,80,15
+20237285,4030,li%C3%A8ge,285000,"House
+     ",3 bedrooms,147,1,Good,3,0.0,,1.0,920,45
+20237281,4450,juprelle,219000,"Apartment
+ ",3 bedrooms,100,1,Good,2,0.0,,,133,
+20237280,4450,juprelle,178000,"Apartment
+ ",2 bedrooms,85,1,Good,2,0.0,,,133,10
+20237279,8300,knokke-heist,1690000,"House
+     ",3 bedrooms,291,0,As new,4,,,,,
+20237276,6030,charleroi,175000,"House
+     ",3 bedrooms,145,1,As new,2,,,,,
+20237275,1760,roosdaal,417630,"House
+     ",3 bedrooms,173,0,As new,3,0.0,,,,
+20237274,7110,houdeng-aimeries,219000,"House
+     ",4 bedrooms,156,1,Good,2,0.0,,0.0,,
+20004300,6060,gilly,195000,"House
+     ",3 bedrooms,121,1,Good,3,,,,,
+11338371,7090,braine-le-comte,299000,"Villa
+     ",3 bedrooms,145,1,,4,0.0,,,,
+20237272,5651,walcourt%20tarcienne,329000,"House
+     ",3 bedrooms,166,1,As new,3,0.0,,0.0,,21
+20237271,7000,mons,139000,"Apartment
+ ",2 bedrooms,72,1,Good,,,,,,
+20237268,2845,niel,275000,"Apartment
+ ",1 bedroom,74,0,,,,,,,23
+20237266,3118,rotselaar,445000,"House
+     ",4 bedrooms,160,1,Good,4,0.0,,,600,50
+20237265,6760,virton,465000,"House
+     ",6 bedrooms,268,1,Just renovated,4,,,,200,45
+20237264,1130,bruxelles,419000,"House
+     ",4 bedrooms,250,1,To renovate,2,0.0,,0.0,170,73
+20237263,1170,watermael-boitsfort,785000,"House
+     ",4 bedrooms,154,1,To be done up,4,0.0,,0.0,214,
+20237261,1600,sint-pieters-leeuw,339000,"House
+     ",4 bedrooms,177,1,To be done up,3,0.0,,0.0,,
+20237260,2000,antwerpen,395500,"Apartment
+ ",2 bedrooms,82,0,As new,,0.0,,,,11
+20237258,5020,namur,165000,"Apartment
+ ",1 bedroom,60,1,Good,3,0.0,,0.0,,
+20237256,2550,kontich,365000,"House
+     ",3 bedrooms,108,1,Good,3,0.0,,0.0,40,
+20237255,2400,mol,275000,"House
+     ",3 bedrooms,175,0,To renovate,4,,,,,
+20227796,1000,brussel,289000294000,Project Ark,2 bedrooms,91,0,,,,,,,
+20227804,1020,laken,289000312000,Project Ark,2 bedrooms,87,0,,,,,,,
+20227795,1050,elsene,320000850000,Spring Gard,0 - 3 bedrooms,45,0,,,,,,,
+20227793,1000,brussel,325000366000,Tour & Taxi,2 bedrooms,93,0,,,,,,,
+20227187,9810,nazareth,347551379551,Eikenleen t,3 bedrooms,169,0,,,,,,,
+20227798,1000,brussel,355000374000,Residentie ,2 bedrooms,93,0,,,,,,,
+20227662,2870,puurs,359000489000,Villa Simon,2 - 3 bedrooms,97,0,,,,,,,
+20227817,1000,brussel,399000510000,Utopia Brus,3 - 4 bedrooms,125,0,,,,,,,
+20227791,1000,brussel,405000444000,Tour & Taxi,2 bedrooms,98,0,,,,,,,
+20227806,1000,brussel,407000443000,Tour & Taxi,2 bedrooms,104,0,,,,,,,
+20227686,2400,mol,462500523500,Residentiew,3 - 4 bedrooms,186,0,,,,,,,
+20229277,2220,heist-op-den-berg,472000478000,BEN-woninge,3 bedrooms,165,0,,,,,,,
+20227789,1000,brussel,615000765000,Citywalk - ,2 - 4 bedrooms,131,0,,,,,,,
+20227045,9840,de-pinte,765000,Heirweg 8 -,4 bedrooms,241,0,,,,,,,
+20227805,1050,elsene,12000001375000,Spring Gard,5 - 6 bedrooms,202,0,,,,,,,
+20234129,7500,tournai,200000,"Apartment
+ ",2 bedrooms,70,1,Good,2,,,,,
+20233365,2060,antwerpen-2060,239500,"Apartment
+ ",1 bedroom,56,1,Good,,,,,,12
+20232552,8400,oostende,275000,"Apartment
+ ",2 bedrooms,80,0,Good,,,,,,7
+20235485,8790,waregem,635000,"Apartment
+ ",3 bedrooms,160,1,Good,,,,,,50
+20235926,9700,oudenaarde,459000,"Mansion
+   ",5 bedrooms,280,0,Good,2,0.0,,,,
+20236559,2960,brecht,479000,"Villa
+     ",4 bedrooms,226,1,To be done up,4,,,,780,
+20236656,1030,schaerbeek,549000,Apartment b,8 bedrooms,350,0,To be done up,3,0.0,,0.0,30,
+20236657,1030,schaerbeek,549000,"House
+     ",8 bedrooms,350,0,To be done up,3,0.0,,0.0,30,
+20229865,9620,zottegem,185000,"Apartment
+ ",3 bedrooms,103,1,To be done up,,0.0,,,,2
+20223527,2100,deurne,235000,"Apartment
+ ",3 bedrooms,89,1,To be done up,2,,,,97,3
+20230748,4400,flemalle,185000,"House
+     ",2 bedrooms,125,1,Good,2,0.0,,0.0,150,10
+20233264,4680,oupeye,279000,"House
+     ",3 bedrooms,149,1,Good,3,0.0,1.0,0.0,525,67
+20234764,4400,flemalle,285000,"House
+     ",3 bedrooms,135,1,As new,2,1.0,,0.0,50,10
+20233484,2550,kontich,319000,"House
+     ",5 bedrooms,172,1,To be done up,2,,,,100,14
+20234488,9700,oudenaarde,435000,Exceptional,4 bedrooms,333,1,To renovate,3,,,,700,
+20237254,8430,middelkerke,430000,"Apartment
+ ",2 bedrooms,83,0,Good,,0.0,,,,
+20117551,9800,deinze,670000,"House
+     ",7 bedrooms,346,0,As new,,,,,,
+20237248,4052,beaufays,275000,"Apartment
+ ",1 bedroom,70,1,As new,,0.0,,0.0,,
+20237245,1470,genappe,420000,"House
+     ",4 bedrooms,150,1,Good,2,0.0,,0.0,60,20
+20237241,5575,gedinne%20rienne,199000,"House
+     ",3 bedrooms,107,1,Good,3,0.0,,,1160,
+20237239,2540,hove,595000,"House
+     ",3 bedrooms,186,0,Good,3,0.0,,,,21
+20237238,3740,bilzen,189000,"House
+     ",3 bedrooms,140,0,,2,0.0,,0.0,,
+20237236,3600,genk,135000,"House
+     ",2 bedrooms,103,0,Good,4,,,,,
+20237233,8670,koksijde,169000,"Apartment
+ ",2 bedrooms,68,0,,2,1.0,,,,
+20237231,3470,kortenaken,299000,"House
+     ",3 bedrooms,149,0,,4,0.0,,0.0,,
+20112523,2440,geel,219000,"Apartment
+ ",3 bedrooms,108,1,,,,,,,
+20181217,2890,sint-amands%20oppuurs,498000,"House
+     ",3 bedrooms,201,0,,3,0.0,,,,30
+20237230,1300,wavre,450000,"Duplex
+    ",4 bedrooms,200,1,As new,,0.0,,0.0,,
+20237228,3670,oudsbergen,449000,"House
+     ",3 bedrooms,196,0,Good,4,,,,,
+20237232,3940,hechtel-eksel,285000,"House
+     ",4 bedrooms,882,0,,4,,,,,
+20237227,4800,verviers,299000,"House
+     ",4 bedrooms,180,1,Good,2,0.0,,0.0,187,29
+20237225,9920,lievegem,1321335,"House
+     ",3 bedrooms,281,1,Good,,0.0,,,,
+20237222,6183,courcelles%20trazegnies,89000,"House
+     ",2 bedrooms,104,0,To renovate,2,,,,,
+20237223,6183,courcelles%20trazegnies,89000,"House
+     ",2 bedrooms,104,0,To renovate,2,,,,,
+20237221,6240,farciennes%20pironchamps,179000,"House
+     ",3 bedrooms,910,0,As new,2,,,,,
+20021557,8540,deerlijk,450000,"House
+     ",3 bedrooms,207,0,Good,,,,,,
+20237220,2000,antwerpen,429000,"Apartment
+ ",3 bedrooms,121,0,Good,3,0.0,,,,
+20237217,1070,anderlecht,550000,Apartment b,3 bathrooms,205,0,Good,2,0.0,,,,11
+20237216,7000,mons,545000,"House
+     ",5 bedrooms,450,0,To renovate,3,0.0,,0.0,860,60
+20237214,2340,beerse,535000,Exceptional,7 bedrooms,503,1,Good,2,,,,,
+11338373,1400,nivelles,299000,"Villa
+     ",3 bedrooms,145,1,,4,0.0,,,,
+20237213,1160,auderghem,570000,Ground floo,3 bedrooms,120,1,To be done up,2,0.0,,,120,42
+20237212,2100,deurne,209000,"Apartment
+ ",1 bedroom,62,0,As new,2,,,0.0,40,20
+20237211,1700,dilbeek,339000,"House
+     ",4 bedrooms,142,1,Good,2,0.0,,,,
+20237210,1700,dilbeek,229000,"Apartment
+ ",2 bedrooms,100,1,Good,2,,,,,7
